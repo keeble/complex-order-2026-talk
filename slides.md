@@ -22,11 +22,66 @@ style: |
 <!-- _class: lower-heading -->
 ![bg](./assets/h1.png)
 
-# Intro Slide 
+## Keen, Myself, an I15-1
 Dean Keeble
-Somewhere, sometime
+COMPLEXORDER, March 2026
 
 ---
+introduction / contents
+
+
+---
+
+
+My introduction to Professor Keen and PDF
+
+---
+
+The NBT paper
+15th Sept 2005 GEM experiment 
+
+---
+
+my first role at diamond
+
+---
+
+first light 10 years ago
+
+---
+
+The user working group and how we designed the beamline
+
+
+
+---
+
+overview of the last 10 years
+
+- number of proposals 571
+- number of sessions 730
+- number of scans 95000
+- number of papers 252
+- 1085 people have been to the beamline
+
+
+
+---
+
+dave's steer in the user working group meeting
+
+---
+
+the arc/ / eiger
+outlook?
+
+
+---
+
+case studies? 
+
+---
+
 ![bg](./assets/dls.png)
 
 ## List of things
