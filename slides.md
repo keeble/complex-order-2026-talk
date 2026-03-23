@@ -17,44 +17,60 @@ style: |
     right: 0px;
     top: 0px;
     }
+  h1 {
+  color: white !important;
+  }
 
 ---
 <!-- _class: lower-heading -->
 ![bg](./assets/h1.png)
 
-## Keen, Myself, an I15-1
+## Prof. Dave Keen and I15-1
 Dean Keeble
 COMPLEXORDER, March 2026
 
 ---
-introduction / contents
+
+![bg  h:600](./assets/BBN2.bmp)
+
+---
+
+![bg](./assets/BBN_Ba_PDF.jpg)
+
+---
+
+matt's phone number from labbook
+
+---
+
+![bg left:43% h:700](./assets/frontispiece.png)
+
+submitted 2011
+
+---
+
+![bg  h:768](./assets/empty_hutch.JPG)
+
+---
+
+![bg right w:600](./assets/uwg.JPG)
+
+### The User Working Group
+An advisory body to help steer the design of a new beamline
 
 
 ---
 
-
-My introduction to Professor Keen and PDF
-
----
-
-The NBT paper
-15th Sept 2005 GEM experiment 
-
----
-
-my first role at diamond
+<members>
 
 ---
 
 first light 10 years ago
 
----
-
-The user working group and how we designed the beamline
-
-
+![](./assets/first_light.png)
 
 ---
+
 
 overview of the last 10 years
 
