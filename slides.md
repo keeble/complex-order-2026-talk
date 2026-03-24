@@ -25,9 +25,9 @@ style: |
 <!-- _class: lower-heading -->
 ![bg](./assets/h1.png)
 
-## Prof. Dave Keen and I15-1
-Dean Keeble
-COMPLEXORDER, March 2026
+## Keen, Myself, & I15-1
+Dean Keeble, Principal Beamline Scientist
+_Keenfest_, 26th March 2026
 
 ---
 
@@ -39,6 +39,7 @@ COMPLEXORDER, March 2026
 
 ---
 
+![bg h:700](./assets/DW_Labbook0006.jpg)
 ![bg h:700](./assets/DW_Labbook0007.jpg)
 
 ---
@@ -50,7 +51,10 @@ COMPLEXORDER, March 2026
 
 ![bg left:43% h:700](./assets/frontispiece.png)
 
-submitted 2011
+- Data collected 2005
+- Started analysing results in 2007
+- 480 RMCProfile refinements
+- Paper submitted in 2011
 
 ---
 
@@ -58,13 +62,40 @@ submitted 2011
 
 ---
 
-![bg right w:600](./assets/uwg.JPG)
+<style scoped>
+  p { text-align: right; 
+       font-size: 1.0rem !important ;}
+</style>
 
-Andrew Goodwin, Simon Billinge, Helen Blade, Daniel Bowron, Pete Chupas, Serena Corr, Martin Dove, Alastair Florence, Joe Hriljac, Anne Kavanagh, David Keen, Gopinathan Sankar
+Simon Billinge
+Helen Blade
+Daniel Bowron
+Pete Chupas
+Serena Corr
+Martin Dove
+Alastair Florence
+Andrew Goodwin
+Joe Hriljac
+Anne Kavanagh
+David Keen
+Gopinathan Sankar
+
+![bg right:60% w:600](./assets/uwg.JPG)
 
 ---
 
-![bg](./assets/first_light.png)
+<style scoped>
+  p { font-size: 1.3rem !important ; }
+</style>
+
+### Addendum to Minutes I15-1 UWG #2, 14th November 2013
+
+> A problem with the calculations of the XPDF instrument resolution for Bragg data was identified by Dave Keen. This addendum corrects these calculations and confirms that the resolution of XPDF Bragg data will be comparable or better than that possible on GEM.
+
+---
+
+
+![bg left ](./assets/first_light.png)
 
 ---
 
@@ -73,7 +104,7 @@ overview of the last 10 years
 
 - number of proposals 974 / 571
 - number of sessions 730
-- number of scans 95000
+- number of scans 95236
 - number of papers 252
 - 1085 people have been to the beamline
 
