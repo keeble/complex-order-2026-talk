@@ -39,7 +39,12 @@ COMPLEXORDER, March 2026
 
 ---
 
-matt's phone number from labbook
+![bg h:700](./assets/DW_Labbook0007.jpg)
+
+---
+
+![bg w:700](./assets/DW_Labbook0008.jpg)
+
 
 ---
 
@@ -55,26 +60,18 @@ submitted 2011
 
 ![bg right w:600](./assets/uwg.JPG)
 
-### The User Working Group
-An advisory body to help steer the design of a new beamline
-
+Andrew Goodwin, Simon Billinge, Helen Blade, Daniel Bowron, Pete Chupas, Serena Corr, Martin Dove, Alastair Florence, Joe Hriljac, Anne Kavanagh, David Keen, Gopinathan Sankar
 
 ---
 
-<members>
-
----
-
-first light 10 years ago
-
-![](./assets/first_light.png)
+![bg](./assets/first_light.png)
 
 ---
 
 
 overview of the last 10 years
 
-- number of proposals 571
+- number of proposals 974 / 571
 - number of sessions 730
 - number of scans 95000
 - number of papers 252
