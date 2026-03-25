@@ -46,13 +46,12 @@ _Keenfest_, 26th March 2026
 
 ![bg w:700](./assets/DW_Labbook0008.jpg)
 
-
 ---
 
-![bg left:43% h:700](./assets/frontispiece.png)
+![bg left:44% h:700](./assets/frontispiece.png)
 
 - Data collected 2005
-- Started analysing results in 2007
+- Started work in 2007
 - 480 RMCProfile refinements
 - Paper submitted in 2011
 
@@ -88,88 +87,143 @@ Gopinathan Sankar
   p { font-size: 1.3rem !important ; }
 </style>
 
-### Addendum to Minutes I15-1 UWG #2, 14th November 2013
+#### Addendum to Minutes I15-1 UWG #2, 14th November 2013
 
-> A problem with the calculations of the XPDF instrument resolution for Bragg data was identified by Dave Keen. This addendum corrects these calculations and confirms that the resolution of XPDF Bragg data will be comparable or better than that possible on GEM.
-
----
-
-
-![bg left ](./assets/first_light.png)
-
----
-
-
-overview of the last 10 years
-
-- number of proposals 974 / 571
-- number of sessions 730
-- number of scans 95236
-- number of papers 252
-- 1085 people have been to the beamline
-
-
-
----
-
-dave's steer in the user working group meeting
-
----
-
-the arc/ / eiger
-outlook?
-
-
----
-
-case studies? 
-
----
-
-![bg](./assets/dls.png)
-
-## List of things
-Normal markdown rules apply:
-
-It helps us keep track of: 
-- things
-- other things
-- those things over there
-- and more! :o: :smiley: :white_check_mark:
-
----
-- some things need a reference†
-- and sometimes you need maths inline $x=y^2$ or in a block:
-$$\begin{aligned}\mathbf{Q} &= \mathbf{k}_f - \mathbf{k}_i \\
-Q &= \vert\mathbf{Q}\vert\end{aligned} $$
-
- <!-- _footer: †Keeble et. al Appl. Phys. Lett. 102, 092903 (2013) --> 
-
----
-
-### and some things need to be in a table
-
-Fruit | Colour | Amount | Cost
------|------|:-----:|------:
-Banana &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Yellow | 4 | £1.00
-Apple | Red | 2 | £0.60
-Orange | Orange &nbsp; &nbsp; &nbsp; | 10 | £2.50
-Coconut | Brown | 1 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; £1.50
+> A problem with the calculations of the XPDF instrument resolution for Bragg data was identified by Dave Keen. This addendum corrects these calculations...
 
 ---
 
 <style scoped>
-  p { text-align: center; }
+  h3 { 
+    text-align: center !important ; 
+    color: white !important ; }
 </style>
-...and sometimes
-you want to temporarily
-modify something
+
+![bg](./assets/first_light.png)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+### 8th April 2016
 
 ---
 
-![masked](./assets/i15-1.png)
-sometimes it's fun to abuse css
+## I15-1 Proposals & Sessions
+Over the past 10 years...
+- 974 proposals received 
+- 571 proposals accepted
+- 730 sessions scheduled
 
 ---
- fitting long lines to page width
-#### <!--fit--> https://www.diamond.ac.uk/Instruments/Crystallography/I19/Manual/EH1.html
+
+## I15-1 Output
+Over the past 10 years...
+- 95236 data collections
+- 1085 people have been to the beamline
+- 252 papers published using I15-1 data
+
+---
+<style scoped>
+  p { 
+    text-align: center !important ; 
+</style>
+
+![bg right:53% w:500](./assets/liquid_mofs.png)
+
+&nbsp; | Co-author Surname | Count
+|-----|-----|:-----:|
+&#x1F947;|Chater|60
+&#x1f948;|Bennett|40
+&#129353;|Keen|39
+&nbsp;|Keeble|36
+
+---
+
+<style scoped>
+  h2, p, li { color: white !important;  }
+</style>
+
+![bg](./assets/varex.png)
+
+## Varex (_née_ Perkin Elmer) Detectors
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :white_check_mark: big
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :white_check_mark: heavy
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :white_check_mark: cheap
+
+---
+
+![bg](./assets/i15-1.png)
+
+---
+
+![bg h:750](./assets/arcless.jpg)
+
+---
+
+
+<style scoped>
+table {
+  border: none !important;
+  border-color:  rgba(255, 255, 255, 1) !important;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h2 {
+  position: absolute;
+  top: 7%;
+} td, tr, tbody {
+  background-color: rgba(255, 255, 255, 1) !important;
+  border-color:  rgba(255, 255, 255, 1) !important;
+  color: var(--diamond-primary) !important;
+}
+p {
+  text-align: center;
+  }
+</style>
+
+ &nbsp;| model | sensor <br>thickness | pixel<br>size | frame<br>rate |  coverage | width
+:-----:|:------|:-----|:------|:------|:---|---
+![h:150](./assets/arc.jpg)| ARC CdTe| 1000 um | 55 um | 25 Hz | 109° | 42.2 mm
+![h:150](./assets/eiger.webp) | Eiger2 X CdTe | 750 um | 75 um | 4.4 kHz | 17° | 38.4 mm
+
+---
+## Conclusions
+- He helped to shape the I15-1 beamline from the outset
+- He's been one of our most prolific users
+- He helped me get into PDF 
+_Dave Keen has a lot to answer for_
+
+---
+
+
+---
+
+
+
+---
+
+
+![w:270](./assets/eiger_1.png)![w:270](./assets/eiger_2.png)![w:270](./assets/eiger_3.png) ![w:270](./assets/eiger_4.png)
+
+---
+
+<style scoped>
+h3 {
+    position: absolute;
+    top: 60px;
+    left: 75px;
+    right: 75px;
+  }
+</style>
+
+### Simulations of scattering from LaB<sub>6</sub>
+
+![bg h:500](./assets/lab6.png)
+
+![bg h:450](./assets/eiger_coverage_76keV.png)
