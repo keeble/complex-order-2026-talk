@@ -47,6 +47,10 @@ _Keenfest_, 26th March 2026
 
 ---
 
+![bg w:1000](./assets/nbt_fig2.jpeg)
+ <!-- _footer: https://doi.org/10.1002/adfm.201201564--> 
+---
+
 ![bg left:44% h:700](./assets/frontispiece.png)
 
 - Data collected 2005
@@ -193,9 +197,10 @@ p {
 
 ---
 ## Conclusions
+- He helped me get into PDF 
 - He helped to shape the I15-1 beamline from the outset
 - He's been one of our most prolific users
-- He helped me get into PDF 
+- He continues to influence the future direction of I15-1
 _Dave Keen has a lot to answer for_
 
 ---
