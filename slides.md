@@ -33,9 +33,8 @@ _Keenfest_, 26th March 2026
 
 ![bg  h:600](./assets/BBN2.bmp)
 
----
 
-![bg](./assets/BBN_Ba_PDF.jpg)
+![bg w:600](./assets/BBN_Ba_PDF.jpg)
 
 ---
 
