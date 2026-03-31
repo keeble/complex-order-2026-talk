@@ -25,42 +25,7 @@ style: |
 <!-- _class: lower-heading -->
 ![bg](./assets/h1.png)
 
-## Keen, Myself, & I15-1
-Dean Keeble, Principal Beamline Scientist
-_Keenfest_, 26th March 2026
-
----
-
-![bg  h:600](./assets/BBN2.bmp)
-
----
-
-![bg  h:600](./assets/BBN2.bmp)
-
-
-![bg w:600](./assets/BBN_Ba_PDF.jpg)
-
----
-
-![bg h:700](./assets/DW_Labbook0006.jpg)
-![bg h:700](./assets/DW_Labbook0007.jpg)
-
----
-
-![bg w:700](./assets/DW_Labbook0008.jpg)
-
----
-
-![bg w:1000](./assets/nbt_fig2.jpeg)
- <!-- _footer: https://doi.org/10.1002/adfm.201201564--> 
----
-
-![bg left:44% h:700](./assets/frontispiece.png)
-
-- Data collected 2005
-- Started work in 2007
-- 480 RMCProfile refinements
-- Paper submitted in 2011
+## 10 years of PDF at DLS
 
 ---
 
